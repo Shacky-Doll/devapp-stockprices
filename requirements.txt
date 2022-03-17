@@ -1,0 +1,4 @@
+pandas == 1.2.4
+yfinance == 0.1.70
+altair == 4.2.0
+streamlit == 1.7.0
