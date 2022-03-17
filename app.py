@@ -83,6 +83,6 @@ try:
         )
     st.altair_chart(chart, use_container_width = True)
 except:
-    st.errot(
+    st.error(
         "エラーが起きています。"
     )
